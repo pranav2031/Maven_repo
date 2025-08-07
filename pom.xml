@@ -10,7 +10,7 @@
   <packaging>war</packaging>
 
   <name>101 Maven Webapp</name>
-  <!-- FIXME change it to the project's website sfsfweffswfsfgit  -->
+  <!-- FIXME change it -->
   <url>http://www.example.com</url>
 
   <properties>
